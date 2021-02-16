@@ -5,7 +5,7 @@ int main (void) {
 
    print_from_function ();
 
-   printf ("Hello world from main!\n");
+   printf ("HELLO FROM MAIN!\n");
 
    return 0;
 }
