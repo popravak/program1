@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int print_from_function () {
-    printf ("\nHELLO FROM FUNCTION!\n");
+    printf ("MILE PROTIVU TRANZICIJE\n!\n");
 
     return 0;
 }
