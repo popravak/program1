@@ -5,9 +5,9 @@ FROM alpine
 WORKDIR /tmp/pp
 
 # copy all the files to the container
-COPY ping1.sh . 
+COPY hello . 
 
 #ENV host=www.google.com
 
 # run the command
-CMD ["/bin/sh", "/tmp/pp/ping1.sh"]
+CMD ["/tmp/pp/hello"]
