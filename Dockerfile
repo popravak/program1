@@ -10,4 +10,5 @@ COPY hello .
 #ENV host=www.google.com
 
 # run the command
-CMD ["/tmp/pp/hello"]
+#CMD ["/tmp/pp/hello"]
+ENTRYPOINT [ "/tmp/pp/hello" ]
