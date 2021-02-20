@@ -1,5 +1,5 @@
 
-FROM alpine
+FROM ubuntu
 
 # set a directory for the app
 WORKDIR /tmp/pp
