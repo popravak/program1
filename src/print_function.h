@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int print_from_function () {
-    printf ("HELLO FROM FUNCTION!\n\n");
+    printf ("STVANO SI SMRADINA STO SI ME PUSTIO DA SE SAM PATIM :)\n");
 
     return 0;
 }

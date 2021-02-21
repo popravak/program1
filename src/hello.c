@@ -5,7 +5,7 @@ int main (void) {
 
    print_from_function ();
 
-   printf ("HELLO FROM MAIN!\n");
+   printf ("TREBALO MI JE OKRUGLO 40 BILDOVANJA DA ZAVRSIM!\n");
 
    return 0;
 }
