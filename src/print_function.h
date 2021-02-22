@@ -2,7 +2,7 @@
 
 int print_from_function () {
     for (int i = 1; i <= 10; i++) {
-        printf ("STVANO SI SMRADINA STO SI ME PUSTIO DA SE SAM PATIM :)\n");
+        printf ("%d. STVANO SI SMRADINA STO SI ME PUSTIO DA SE SAM PATIM :)\n", i);
         //printf ("BLAH!!!\n");
     }
     return 0;
