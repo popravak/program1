@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "/var/lib/jenkins/workspace/program1/src/print_function.h"
+#include "src/print_function.h"
 
 int main (void) {
 
