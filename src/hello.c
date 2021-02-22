@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "src/print_function.h"
+#include "../src/print_function.h"
 
 int main (void) {
 
